@@ -1,1 +1,1 @@
-[DEMO](https://panasiuknazar.github.io/InvestiImmobiliare-real-estate/)
+[DEMO](https://panasiuknazar.github.io/CorsiInvestimenti-investment-course/)
